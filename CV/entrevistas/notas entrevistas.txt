@@ -1,0 +1,202 @@
+
+Jaime Cid IA google (proyectos 2026)- inteligencia artificial conversacional 
+Francisco Jose Martin Giner
+Rafael Chacon soy CCA, me puedes orientar
+Marta Martinez orientar en itinerario formativo
+Mara claude code, está de moda
+
+entrevista exitosa para mejor encaje en las oportunidades, importante defender mi posición:
+preparar la entrevista: investigación del cliente y sector
+analizar la oportunidad, conocer nuestro curriculum y enlazar oportunidad con curriculum
+preparar dos minutos resumen de tu cv, puntos fuertes y débiles, preguntas a plantear,
+lo más seguro	
+
+	Buenos días Tirso,
+	Buenos días,
+2.	Cuéntame brevemente tu trayectoria profesional y cómo has llegado hasta tu rol actual en 2-3 minutos
+	tengo más de 20 años de experiencia en desarrollo de software. Empecé como programador en entornos Obsydian y Lotus Notes. 
+	Tras evolucionar la tecnología, me especialicé en Java como analista-programador y como analista funcional en menor medida.
+	A lo largo de mi trayectoria he trabajado en múltiples sectores y clientes —financiero, telecomunicaciones, servicios públicos, 
+	automoción— principalmente en proyectos de mantenimiento y evolución de aplicaciones.
+	
+	En los últimos 3–4 años me he centrado en desarrollos con SpringBoot, donde he consolidado mi perfil técnico. 
+	Hoy me defino como un perfil con experiencia, flexible y orientado a aportar valor técnico y funcional al equipo.
+	2'
+	
+5.	¿Qué herramientas utilizas? 
+	Trabajo principalmente con Visual Studio Code como entorno de desarrollo, 
+	GitHub Copilot como apoyo a la productividad, 
+	Sourcetree para la gestión de Git,
+	Jira para la gestión del trabajo.
+	Estoy acostumbrado a trabajar en sprints bajo metodologías ágiles Scrum, participando en planificación, refinamiento, 
+	seguimiento y resolución de incidencias.
+	Actualmente me estoy formando en inteligencia artificial aplicada al desarrollo, en metodología SDD o spec driven development
+	(desarrollo guiado por especificaciones), para generación de código automático end-to-end cubriendo todo el ciclo de vida
+	de desarrollo, mediante uso de agentes IA, como del framework openspec.
+	En resumen, basándonos en especificaciones funcionales y en la arquitectura, obtenemos un plan y unas tareas de implementación
+	para construcción automática de la aplicación. La aplicación se completa tras varios ciclos repetitivos de verificaciones.
+	3'
+	
+11.	¿Cómo gestionas los cambios urgentes?
+	Ante un cambio urgente, primero analizo el impacto técnico y funcional para evitar efectos colaterales.
+	Después priorizo según criticidad y dependencia con otros cambios, alineándome con el cliente y el equipo.
+	Finalmente, implemento el cambio de forma controlada y verifico que no afecte al resto del sistema.
+	4'
+	
+5.	Describe una incidencia grave que hayas gestionado. ¿Cómo actuaste?
+	-En un cliente detectamos que una señal perimetral de seguridad no cumplía los tiempos establecidos. Tras analizar el sistema, 
+	identifiqué un error de parametrización. Ajusté el script de configuración y, tras desplegarlo, los tiempos volvieron a cumplir 
+	los SLA definidos. Esto evitó penalizaciones al cliente y estabilizó el sistema.
+	-En otro proyecto, en el que participaba como analista funcional, adopté el rol de programador en SpringBoot
+	para acelerar las entregas.
+	-En otro cliente, tuve que participar en la integración con otro equipo. Para poder realizar estas pruebas críticas de integración
+	tuve que adaptar mi disponibilidad y de ese modo se pudieron realizar las comprobaciones, las coordinaciones y los cambios 
+	necesarios.
+    6'
+
+17.	¿Qué crees que aportas tú a un equipo de proyecto?
+	Aporto principalmente experiencia, responsabilidad y proactividad.
+	Soy un perfil flexible: puedo asumir tareas de análisis, desarrollo o verificación según lo necesite el proyecto
+	A nivel técnico tengo un conocimiento sólido de SpringBoot en los starters starter web, validation, jpa, jpa specification
+	y dinamico, security y cloud, principalmente.
+	Actualmente estoy incorporando conocimientos de IA aplicada al desarrollo, lo que puede aportar valor a futuro al equipo
+	7'
+	
+30.	¿Cómo gestionas la presión del cliente?
+	Intento gestionar la presión de forma positiva y profesional con organización, priorizando bien y manteniendo una comunicación
+	clara para que el cliente confíe en el trabajo.
+	También intento manejar la presión preparándome y conociendo la aplicación. Esto me aporta una mayor seguridad y puedo reaccionar con mayor
+	eficacia ante cambios o imprevistos futuros
+	8'
+	
+37.	¿Cómo fortalezas destacarías de tu perfil? 
+	Destacaría mi experiencia, compromiso y capacidad de trabajo en equipo. Me gusta hacer las cosas bien, 
+	de forma clara y mantenible, y estoy siempre dispuesto a seguir aprendiendo. También ayudar a los compañeros y verificar
+	que las funcionalidades en las que trabaja el equipo son correctas
+	9'
+
+37.	¿Qué debilidades destacarías?
+	Una de mis debilidades ha sido querer tener todo demasiado controlado. Con el tiempo he aprendido a apoyarme más en el equipo
+	y priorizar mejor. 
+	También he sido impaciente en el pasado, pero la experiencia me ha enseñado que la fiabilidad es más importante que la rapidez.
+	10'
+	
+41.	¿Puedes mantener una conversación en inglés?  
+	Me manejo bien con documentación y comunicación escrita en inglés y francés. A nivel conversacional tengo un nivel intermedio
+	y lo sigo mejorando con práctica continua, por ejemplo viendo contenidos en versión original. 
+	Cuando es necesario, me apoyo en herramientas digitales para asegurar una comunicación fluida.
+	11'
+	
+XX	¿qué cursos has hecho recientemente?
+	En los últimos meses he realizado varios cursos de SpringBoot, automatización de procesos con n8n y un curso de IA orientado
+	al desarrollo por especificaciones.
+	Mi objetivo es combinar mi experiencia en Java y SpringBoot con nuevas tendencias como la IA aplicada al desarrollo end-to-end.	
+	12'
+	
+XX  ¿tienes alguna pregunta sobre esta posición?
+
+¿dónde está ubicado el equipo?	
+	XX  madrid y valencia
+
+¿es un equipo nuevo o ya está consolidado?	
+	XX  ya está consolidado y necesitamos un persona con tus caracteristicas
+
+¿Cuántas personas están trabajando en el proyecto?
+	4-5
+¿cuál sería mi rol específico en este proyecto?
+	Desarrollador en SpringBoot 4
+
+¿me avisarías si quedase seleccionado o no?
+XX  Sí
+		
+	te agradezco tu tiempo, muchas gracias.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Cuéntame brevemente tu trayectoria profesional y cómo has llegado hasta tu rol actual en 2 minutos
+      Mi experiencia en desarrollo es de más de 20 años, en un princicio en el año 2000 comencé con Lotus notes como programador.
+      Como esta tecnología quedó relegada, en el 2010 inicié el desarrollo en java como ya como Analista-Programador
+      Los últimos 3-4 años he estado trabajando con SpringBoot.
+      También he trabajado como funcional.
+      He trabajado para clientes como carrefour, vodafone, canal de isabel II, gas natural, registro civil,
+      PSA automoción, securitas direct. En la mayoría de estos clientes siempre mantenimientos.
+      En Securitas durante 5 años estuve como responsable de equipo.
+      Actualmente me estoy formando en IA, en metodología SDD (desarrollo guiado por especificaciones) para generacion de código
+      end-to-end para cubrir todo el ciclo de vida de desarrollo, uso de agentes IA y del framework openspec.
+
+5.    ¿Qué herramientas utilizas?
+      visual studio code, github copilot, sourcetree.
+      
+11.   ¿Cómo gestionas los cambios urgentes? ante todo siendo muy cuidadoso, analizando el impacto con otras funciones.
+      Priorizando por prioridad teniendo en cuenta tambien la dependencia entre los cambios.
+      
+5.    Describe una incidencia grave que hayas gestionado. ¿Cómo actuaste?
+      En un cliente el tratamiento de una señal perimetral de seguridad no cumplía con los tiempos establecidos,
+      comprobé que la parametrización no era la correcta, para solucionarlo envié el nuevo script de ajuste obteniendo
+      el resultado esperado.
+      En otro proyecto en este mismo cliente, en el que participaba como analista funcional, adopté el rol de programador en SpringBoot
+      para acelerar las entregas.
+      En otro cliente, tuve que participar en la integración con otro equipo. Para poder realizar estas pruebas críticas de integración
+      tuve que adaptar mi disponibilidad y de ese modo se pudieron realizar las comprobaciones y los cambios necesarios.
+
+17.   ¿Qué crees que aportas tú a un equipo de proyecto?
+      Sobre todo aportaría experiencia, responsabilidad y proactividad.
+      Debido a esta experiencia, he alcanzado un buen nivel en los starters de SpringBoot: starter web, validation, jpa, jpa specification
+      y dinamico, security y cloud, principalmente.
+      Debido a mi responsabilidad y proactividad, demuestro flexibilidad en mis tareas, si es necesario analizar analizo,
+      y si es necesario programar programo, o hacer pruebas.
+      También aportaría mis conocimientos de desarrollo en IA con los conocimientos de SpringBoot
+      
+30.   ¿Cómo gestionas presión del cliente?
+      Intento conocer en profundidad toda la aplicacion para dar una buena respuesta y así estar preparado a los cambios
+      
+37.   ¿Qué fortalezas destacarías de tu perfil?
+      La experiencia, el compromiso y la responsabilidad. Soy una persona trabajadora que le gusta trabajar en equipo.
+      Además me gusta   aprender. Como programador cuido mucho de hacer las cosas de manera sencilla y entendible para otros programadores
+
+37.   ¿Qué debilidades destacarías?
+      El querer tener todo controlado. Al menos el lado positivo es que se permite una respuesta más rápida al haber mas conocimiento
+      por querer tener todo controlado.
+      La impaciencia ha sido una debilidad a lo largo de mi carrera, pero la experiencia me ha enseñado a entender que la fiabilidad
+      es mas importante que la rapidez.   
+      
+41.   ¿Puedes mantener una conversación en inglés?  
+      Me desempeño bien con la documentación y comunicación escrita en inglés y francés
+      agilizando el trabajo con herramientas digitales como traductores y extensiones.
+      En cuanto a la conversación, tengo una base intermedia y sigo practicando viendo las películas en versión original.
+
+
+XX    ¿qué cursos has hecho recientemente?
+      En los dos ultimos meses he completado varios cursos con titulación de Udemy en SpringBoot, un curso de n8n de automatización
+      de procesos y un curso en IA.
+      Este curso de IA se basa en el desarrollo por especificaciones funcionales.
+      Si a estas especificaciones añadimos la arquitectura, el plan de implementacion construirá la aplicación end to end incluyendo
+      pruebas y documentación. Esta ultima parte de pruebas y verificacion se realizará siguiendo un ciclo repetitivo.
+      Mi objetivo, es seguir esta nueva tendencia tecnológica como es la IA.
+
+XX  ¿tienes alguna pregunta sobre esta posición?
+
+¿dónde está ubicado el equipo?      
+      XX  madrid y valencia
+
+¿es un equipo nuevo o ya está consolidado?      
+      XX  ya está consolidado y necesitamos un persona con tus caracteristicas
+
+¿Cuántas personas están trabajando en el proyecto?
+      4-5
+¿cuál sería mi rol específico en este proyecto?
+      Desarrollador en SpringBoot 4
+
+¿me avisarías si quedase seleccionado o no?
+XX  Sí
+
